@@ -1,0 +1,21 @@
+C:/Users/Juan Felipe/OneDrive - Universidad Nacional de Colombia/Escritorio/Workspace/Led_Direccionales_C/Drivers/STM32L4xx_LL_Drivers/Inc/stm32l4xx_ll_bus.h:563:22:LL_AHB2_GRP1_EnableClock	24	static
+C:/Users/Juan Felipe/OneDrive - Universidad Nacional de Colombia/Escritorio/Workspace/Led_Direccionales_C/Drivers/STM32L4xx_LL_Drivers/Inc/stm32l4xx_ll_gpio.h:285:22:LL_GPIO_SetPinMode	48	static,ignoring_inline_asm
+C:/Users/Juan Felipe/OneDrive - Universidad Nacional de Colombia/Escritorio/Workspace/Led_Direccionales_C/Drivers/STM32L4xx_LL_Drivers/Inc/stm32l4xx_ll_gpio.h:956:22:LL_GPIO_SetOutputPin	16	static
+C:/Users/Juan Felipe/OneDrive - Universidad Nacional de Colombia/Escritorio/Workspace/Led_Direccionales_C/Drivers/STM32L4xx_LL_Drivers/Inc/stm32l4xx_ll_gpio.h:985:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Source/hal_nucleo_l476.c:10:6:HAL_NUCLEO_L476_INIT	8	static
+../Core/Source/hal_nucleo_l476.c:35:6:LD2_Set	8	static
+../Core/Source/hal_nucleo_l476.c:39:6:LD2_Reset	8	static
+../Core/Source/hal_nucleo_l476.c:43:6:LD3_Set	8	static
+../Core/Source/hal_nucleo_l476.c:47:6:LD3_Reset	8	static
+../Core/Source/hal_nucleo_l476.c:51:6:LD4_Set	8	static
+../Core/Source/hal_nucleo_l476.c:55:6:LD4_Reset	8	static
+../Core/Source/hal_nucleo_l476.c:59:6:LD5_Set	8	static
+../Core/Source/hal_nucleo_l476.c:63:6:LD5_Reset	8	static
+../Core/Source/hal_nucleo_l476.c:67:6:LD6_Set	8	static
+../Core/Source/hal_nucleo_l476.c:71:6:LD6_Reset	8	static
+../Core/Source/hal_nucleo_l476.c:75:6:LD7_Set	8	static
+../Core/Source/hal_nucleo_l476.c:79:6:LD7_Reset	8	static
+../Core/Source/hal_nucleo_l476.c:83:6:LD8_Set	8	static
+../Core/Source/hal_nucleo_l476.c:87:6:LD8_Reset	8	static
+../Core/Source/hal_nucleo_l476.c:91:6:LD9_Set	8	static
+../Core/Source/hal_nucleo_l476.c:95:6:LD9_Reset	8	static
